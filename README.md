@@ -1,5 +1,5 @@
 # snake-in-c
-The snake game, programmed in C for practice. Most of the code was written in one morning on the train 🚋. Only works 100% on Windows. 
+The snake game, programmed in C for practice. Most of the code was written in one morning on the train 🚋. Pretty sure it only works on Windows (sorry). 
 
 ## Gamplay
 <video src="https://github.com/mclaughlin-d/snake-in-c/assets/131609298/421863aa-a0ae-4182-a91a-69b9034bbeab"><video/>
